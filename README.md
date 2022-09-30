@@ -23,7 +23,7 @@ _Luego activa el entorno:_
 $ source env/bin/activate
 ```
 
-_ Para instalar las librerias ejecuta:_
+_Para instalar las librerias ejecuta:_
 
 ```
 $ pip install -r requirements.txt
