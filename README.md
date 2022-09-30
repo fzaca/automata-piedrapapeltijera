@@ -18,6 +18,11 @@ $ pip install virtualenv
 $ python3 -m venv env
 ```
 
+_Luego activa el entorno:_
+```
+$ source env/bin/activate
+```
+
 _ Para instalar las librerias ejecuta:_
 
 ```
