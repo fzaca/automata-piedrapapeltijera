@@ -40,3 +40,6 @@ $ python3 main.py
 ## Autor ✒️
 
 * **Jose Zacarías Flores**  - [Xukay101](https://github.com/Xukay101)
+
+##
+<p align="center"><img src='[https://github.com/Xukay101/automata-piedrapapeltijera/blob/main/gif00.gif?raw=true](https://raw.githubusercontent.com/Xukay101/automata-piedrapapeltijera/main/gif00.gif](https://raw.githubusercontent.com/Xukay101/automata-piedrapapeltijera/main/gif01.gif)' /></p>
